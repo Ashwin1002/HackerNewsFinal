@@ -4,7 +4,7 @@ It is a flutter appplication which fetch real-time data about top-stories and co
 
 ## Screenshots
 
-<img src = 'https://user-images.githubusercontent.com/47735067/173017993-063923df-b89c-43bd-9ef8-6d510a3ace8b.png'; width = 300; height = 500>
+<img src = 'https://user-images.githubusercontent.com/47735067/173017993-063923df-b89c-43bd-9ef8-6d510a3ace8b.png' width = '300' height = '500'>
 <p>Top Stories from Hackernews Api</p>
 <br>
 <hr>
