@@ -1,16 +1,13 @@
 # hacker_news_final
 
-A new Flutter project.
+It is a flutter appplication which fetch real-time data about top-stories and comments from hacker news api.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<br>
+<hr>
+![HackerNews](https://user-images.githubusercontent.com/47735067/173017993-063923df-b89c-43bd-9ef8-6d510a3ace8b.png)
+<p>Top Stories from Hackernews Api</p>
+<br>
+<br>
+![Hackernewscomment](https://user-images.githubusercontent.com/47735067/173017998-89174d74-8425-49e7-9a72-a06c698730ec.png)
+<p>A comment from Hackernews top story</p>
